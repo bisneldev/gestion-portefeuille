@@ -1,0 +1,6 @@
+scenario,description,choc_marche_pct,impact_portefeuille_pct,impact_fcfa,capital_apres_fcfa,perte_pct_capital
+Crise 2008,Crise financière mondiale,-40.0,-32.0,-320000000.0,680000000.0,32.0
+COVID-19,Pandémie mondiale,-30.0,-24.0,-240000000.0,760000000.0,24.0
+Choc pétrolier,Effondrement du prix du pétrole,-20.0,-16.0,-160000000.0,840000000.0,16.0
+Crise monétaire CEMAC,Dévaluation FCFA,-15.0,-12.0,-120000000.0,880000000.0,12.0
+Krach boursier,Correction brutale des marchés,-25.0,-20.0,-200000000.0,800000000.0,20.0
